@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: VNNOT01506
+pool: Default
+#pool: VNNOT01506
   #vmImage: VNNOT01506 # ubuntu-latest
 
 variables:
