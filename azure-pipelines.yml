@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: VNNOT01506 # ubuntu-latest
+pool: VNNOT01506
+  #vmImage: VNNOT01506 # ubuntu-latest
 
 variables:
   buildConfiguration: 'Release'
